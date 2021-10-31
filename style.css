@@ -4,15 +4,32 @@ body {
 	color: white;
 	font-family: 'Helvetica', sans-serif;
 }
-
+a {
+  text-decoration:none;
+  color: rgb(150,150,225);
+}
+ul {
+  text-align: left;
+  list-style: none;
+}
 p {
 	margin: 0px;
 }
 
 h3 {
-	margin: 8px;
+	margin: 8px;
 }
-
+h6 {
+	margin: 8px;
+}
+#head {
+  width: 100%;
+  height: auto;
+}
+img { 
+  padding: 0px 0px;
+  margin: 0px 0px;
+}
 #site {
 	text-align: center;
 	background: rgba(0, 0, 0, 0.3);
@@ -23,9 +40,18 @@ h3 {
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 }
+#projects {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.covers img {
+  width: 120px;
+  float: center;
+}
 
 /* Navbar container */
 .navbar {
+  padding: 8px 16px;
   overflow: hidden;
   font-family: 'Helvetica', sans-serif;
   background: rgba(0, 0, 0, 0.75);
@@ -34,10 +60,10 @@ h3 {
 /* Links inside the navbar */
 .navbar a {
   color: white;
-  float: left;
+  float: center;
   font-size: 16px;
   text-align: center;
-  padding: 8px 11px;
+  padding: 8px 16px;
   text-decoration: none;
 }
 
