@@ -1,116 +1,82 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
 
-body {
-	background-image: url("assets/bg.png");
-	color: white;
-	font-family: 'Helvetica', sans-serif;
-}
+   body {
+    background-image: url("assets/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: Helvetica;
+  }
+  
+  h5 {
+    margin: 0px;
+    text-decoration: none;
+    font-weight: normal;
+  }
 
-a {
-  text-decoration:none;
-  color: rgb(150,150,225);
-}
+  .sidenav {
+    height: 100%;
+    width: 252px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.205);
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+  
+  a {
+    text-decoration:none;
+    color: rgb(194, 194, 245);
+  }
+  
+  h5 a {
+    text-align: left;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+  }
 
-ul {
-  text-align: left;
-  list-style: none;
-}
+  .sidenav h1 {
+    text-align: right;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+  }
+  .sidenav h3 {
+    text-align: right;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+    display: block;
+  }
 
-p {
-	margin: 0px;
-}
+  .sidenav p {
+    text-align: right;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #ced6ec;
+  }
 
-h3 {
-	margin: 8px;
-}
-
-h6 {
-	margin: 8px;
-}
-
-#head {
-  width: 100%;
-  height: auto;
-}
-
-img { 
-  padding: 0px 0px;
-  margin: 0px 0px;
-}
-
-#site {
-	text-align: center;
-	background: rgba(0, 0, 0, 0.3);
-	width: 512px;
-	position: absolute;
-	left: 50%;
-	-ms-transform: translate(-50%, 0);
-	transform: translate(-50%, 0);
-}
-
-#bg {
-  background: rgba(0, 0, 0, 0.4);
-}
-
-.covers img {
-  width: 120px;
-  float: center;
-}
-
-/* Navbar container */
-.navbar {
-  padding: 8px 16px;
-  overflow: hidden;
-  font-family: 'Helvetica', sans-serif;
-  background: rgba(0, 0, 0, 0.75);
-}
-
-/* Links inside the navbar */
-.navbar a {
-  color: white;
-  float: center;
-  font-size: 16px;
-  text-align: center;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-/* The dropdown container */
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
-
-/* Dropdown button */
-.dropdown .dropbtn {
-  color: white;
-  font-size: 16px;
-  border: none;
-  outline: none;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
-}
-
-/* Dropdown content (hidden by default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  float: none;
-  padding: 8px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-  display: block;
-}
+  .sidenav img {
+    padding-bottom: 8px;
+    width: 252px;
+    height: auto;
+    object-fit: contain;
+  }
+  
+  .main {
+    margin-left: 252px; /* Same as the width of the sidenav */
+    font-size: 16px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
