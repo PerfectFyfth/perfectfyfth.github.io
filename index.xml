@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>perfectfyfth</title>
-	<link>perfectfyfth.github.io/</link>
+	<link>https://perfectfyfth.github.io/</link>
 	<description>Recent content on perfectfyfth</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="perfectfyfth.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://perfectfyfth.github.io/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>what i use</title>
-		<link>perfectfyfth.github.io/what-i-use/</link>
+		<link>https://perfectfyfth.github.io/what-i-use/</link>
 		<pubDate>Mon, 25 Jul 2022 14:40:27 -0500</pubDate>
 		
-		<guid>perfectfyfth.github.io/what-i-use/</guid>
+		<guid>https://perfectfyfth.github.io/what-i-use/</guid>
 		<description>&lt;h3 id=&#34;a-list-of-most-of-the-software-i-use-in-my-work&#34;&gt;a list of most of the software i use in my work.&lt;/h3&gt;
 &lt;h4 id=&#34;most-of-the-stuff-i-use-is-free-unless-stated-otherwise&#34;&gt;most of the stuff i use is free, unless stated otherwise.&lt;/h4&gt;
 &lt;h2 id=&#34;graphics&#34;&gt;GRAPHICS&lt;/h2&gt;
@@ -92,10 +92,10 @@
 	
 	<item>
 		<title>hello world</title>
-		<link>perfectfyfth.github.io/hello-world/</link>
+		<link>https://perfectfyfth.github.io/hello-world/</link>
 		<pubDate>Mon, 25 Jul 2022 14:34:43 -0500</pubDate>
 		
-		<guid>perfectfyfth.github.io/hello-world/</guid>
+		<guid>https://perfectfyfth.github.io/hello-world/</guid>
 		<description>&lt;h2 id=&#34;hello-welcome&#34;&gt;hello! welcome!!!&lt;/h2&gt;
 &lt;p&gt;i just finished reworking my website in hugo, and might start using this as a blog to post random shit.&lt;/p&gt;
 &lt;p&gt;what will i do here? how will i do it? what is the point of this? i have no idea! and does it really matter? i doubt it!&lt;/p&gt;

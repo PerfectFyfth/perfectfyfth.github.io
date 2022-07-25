@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>perfectfyfth</title>
-	<link>perfectfyfth.github.io/tags/</link>
+	<link>https://perfectfyfth.github.io/tags/</link>
 	<description>Recent content in Tags on perfectfyfth</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="perfectfyfth.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://perfectfyfth.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	</channel>

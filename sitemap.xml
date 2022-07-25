@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>perfectfyfth.github.io/what-i-use/</loc>
+    <loc>https://perfectfyfth.github.io/what-i-use/</loc>
     <lastmod>2022-07-25T14:40:27-05:00</lastmod>
   </url><url>
-    <loc>perfectfyfth.github.io/hello-world/</loc>
+    <loc>https://perfectfyfth.github.io/hello-world/</loc>
     <lastmod>2022-07-25T14:34:43-05:00</lastmod>
   </url><url>
-    <loc>perfectfyfth.github.io/categories/</loc>
+    <loc>https://perfectfyfth.github.io/categories/</loc>
   </url><url>
-    <loc>perfectfyfth.github.io/</loc>
+    <loc>https://perfectfyfth.github.io/</loc>
   </url><url>
-    <loc>perfectfyfth.github.io/tags/</loc>
+    <loc>https://perfectfyfth.github.io/tags/</loc>
   </url>
 </urlset>
