@@ -2,13 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://perfectfyfth.github.io/despite/</loc>
+    <lastmod>2022-08-10T13:04:13-05:00</lastmod>
+  </url><url>
     <loc>https://perfectfyfth.github.io/what-i-use/</loc>
     <lastmod>2022-07-25T14:40:27-05:00</lastmod>
   </url><url>
-    <loc>https://perfectfyfth.github.io/hello-world/</loc>
-    <lastmod>2022-07-25T14:34:43-05:00</lastmod>
+    <loc>https://perfectfyfth.github.io/im-cold/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://perfectfyfth.github.io/21/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://perfectfyfth.github.io/categories/</loc>
+  </url><url>
+    <loc>https://perfectfyfth.github.io/hello-world/</loc>
   </url><url>
     <loc>https://perfectfyfth.github.io/</loc>
   </url><url>
