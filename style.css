@@ -73,6 +73,10 @@ footer {
     display: block;
   }
 
+  h6 {
+    text-align: center;
+  }
+
   .sidenav h1 {
     text-align: right;
     padding: 0px 16px 0px 16px;
