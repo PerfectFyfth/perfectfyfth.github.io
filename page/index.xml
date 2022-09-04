@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on perfectfyfth</title>
+        <link>https://perfectfyfth.github.io/page/</link>
+        <description>Recent content in Pages on perfectfyfth</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://perfectfyfth.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>about</title>
+        <link>https://perfectfyfth.github.io/about/</link>
+        <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://perfectfyfth.github.io/about/</guid>
+        <description>&lt;h2 id=&#34;hi-im-orchid&#34;&gt;hi, i&amp;rsquo;m orchid&lt;/h2&gt;
+&lt;p&gt;a 16 year old idiot, audio-visual designer, and occasional music producer.&lt;/p&gt;
+&lt;p&gt;i&amp;rsquo;ve been producing and releasing music as perfectfyfth since 2019, and in general for even longer.&lt;/p&gt;
+&lt;p&gt;i&amp;rsquo;ll fill this out with more information later lol&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;faq&#34;&gt;faq&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;can I use your songs in my own work?&lt;/strong&gt;&lt;br&gt;
+yes, you can use my music non-commercially as long as you give credit when needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;why isn&amp;rsquo;t your music on / can you put your music on streaming services (e.g. Spotify, Apple Music, etc)&lt;/strong&gt;&lt;br&gt;
+no. i don&amp;rsquo;t want to bother with distributing my music, as that seems like it would be a pain&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-this-site&#34;&gt;about this site&lt;/h2&gt;
+&lt;p&gt;this website was built in the &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; framework using a slightly modified version of theme called &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stack&lt;/a&gt;.
+that cat you see running around the home page is oneko, more specifically, &lt;a class=&#34;link&#34; href=&#34;https://github.com/adryd325/oneko.js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;oneko.js&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;oh! you read to the end! just for fun, try entering perfectfyfth.github.io/legacy&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>archives</title>
+        <link>https://perfectfyfth.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://perfectfyfth.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>links</title>
+        <link>https://perfectfyfth.github.io/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://perfectfyfth.github.io/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>search</title>
+        <link>https://perfectfyfth.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://perfectfyfth.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

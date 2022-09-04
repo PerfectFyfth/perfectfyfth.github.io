@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>production / resources on perfectfyfth</title>
+        <link>https://perfectfyfth.github.io/categories/production-/-resources/</link>
+        <description>Recent content in production / resources on perfectfyfth</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://perfectfyfth.github.io/categories/production-/-resources/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>what i use</title>
+        <link>https://perfectfyfth.github.io/p/what-i-use/</link>
+        <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://perfectfyfth.github.io/p/what-i-use/</guid>
+        <description>&lt;h4 id=&#34;most-of-the-stuff-i-use-is-free-unless-stated-otherwise&#34;&gt;most of the stuff i use is free, unless stated otherwise.&lt;/h4&gt;
+&lt;h2 id=&#34;graphics&#34;&gt;GRAPHICS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.gimp.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GNU IMAGE MANIPULATION PROGRAM (GIMP)&lt;/a&gt; - basically the free and open source alternative for Photoshop. the ui / ux is divisive, to say the least, but i&amp;rsquo;ve been using it almost exclusively for almost all of my graphics, and it definitely can do the job.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.aseprite.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ASEPRITE&lt;/a&gt; - art program designed with pixel art in mind. has a great, intuitive interface.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.blender.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;BLENDER&lt;/a&gt; - THE program for anything 3D. i&amp;rsquo;m not sure what else to say about it. most of art / visuals done in blender.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://derivative.ca/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TOUCHDESIGNER&lt;/a&gt; - a really powerful visual programming language. it can do a ton of things, and i recommend looking into it, but i mainly use it for live, audio-reactive visuals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;musicaudio&#34;&gt;MUSIC/AUDIO&lt;/h2&gt;
+&lt;h3 id=&#34;daw--standalone-programs&#34;&gt;DAW / STANDALONE PROGRAMS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://reaper.fm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;REAPER&lt;/a&gt; - my main DAW since 2019, a bit of a learning curve for some, but lightweight, really flexible and customizable. us$60 for a personal license, but the free trial version lasts forever without any limitation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bespokesynth.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;bespoke synth&lt;/a&gt; - a really neat, completely free modular synth / DAW environment, really neat for sound design, and working with live.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sonobus.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SONOBUS&lt;/a&gt; - audio plugin or standalone program for sharing audio, great for collaboration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;vst-plugins&#34;&gt;VST PLUGINS&lt;/h3&gt;
+&lt;h4 id=&#34;instruments&#34;&gt;Instruments&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://vital.audio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VITAL&lt;/a&gt; - you probably know about vital already, hands down the best free (and arguably non-free as well) software synthesizer. it does just about everything.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://tytel.org/helm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;HELM&lt;/a&gt; - earlier synth from the same creator as vital, not nearly as powerful, but simple, and has an interesting sound, especially with the modulation, feedback, and distortion.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://labs.spitfireaudio.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SPITFIRE AUDIO LABS&lt;/a&gt; - spitfire offers a lot of great free instrument sample libraries, i like a lot of their atmospheric sounds.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.powerdrumkit.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MT - POWERDRUMKIT&lt;/a&gt; - a decent free drum kit.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://mastrcode-music.de/en/vst-plugins/t-force-alpha-plus/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;T-FORCE ALPHA PLUS&lt;/a&gt; - a little unstable from my testing, but a great synth for trance and anything that needs large supersaws and whatnot&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://plugins4free.com/plugin/2848/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;KEYZONE CLASSIC&lt;/a&gt; - just a basic piano plugin, i&amp;rsquo;m not sure what to say about this one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;effects&#34;&gt;Effects&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.airwindows.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;AIRWINDOWS&lt;/a&gt; - a TON of small, lightweight, cpu efficient audio effects. they usually do one thing, but do it very well.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://tal-software.com/products&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TAL FREE PLUGINS&lt;/a&gt; - tal offers a really full, free reverb. i haven&amp;rsquo;t used many of their other plugins but they are pretty solid as well.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://archive.org/details/classic-auto-filter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;KJAERHUS AUDIO CLASSIC PLUGINS&lt;/a&gt; - although they are old plugins from a long-defunct company, they are still really solid effects plugins, and especially their auto-filter.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://xferrecords.com/freeware&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;OTT&lt;/a&gt; - this thing is a meme at this point. an over-the-top multiband compression plugin, that that can crush any sound, that works for a lot of things, for better or for worse.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/enummusic/allpassphase&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ALLPASSPHASE&lt;/a&gt; - free and open source clone of the popular plugin from kilohearts, disperser. it has a really unique, immediately recognizable, bubbly, weird sound. this is achieved by abusing multiband artifacts, which i won&amp;rsquo;t get into detail now, but &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=RHi__JOLs54&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Inverted Silence has a great video on it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://plugins4free.com/plugin/2777/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TRANSPIRE&lt;/a&gt; - a solid free transient shaper plugin. not sure what to say about this one either.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;resources-for-reaper&#34;&gt;resources for REAPER&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://reapack.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;REAPACK&lt;/a&gt; - package manager for REAPER. makes managing REAPER plugins and extensions much easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;themes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stash.reaper.fm/theme/2085/HYDRA.ReaperThemeZip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;HYDRA theme&lt;/a&gt; - a good minimal REAPER theme.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stash.reaper.fm/theme/1702/Default_Commala_5.ReaperThemeZip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Default Commala 5&lt;/a&gt; - the theme i use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;extensions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://forum.cockos.com/showthread.php?p=2506514&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GLOBAL SAMPLER&lt;/a&gt; a powerful tool for sound design, lets you record everything happening in your DAW.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;JS plugins&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/JoepVanlier/JSFX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SAIKE TOOLS&lt;/a&gt; - a lot of good free JS plugins.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://geraintluff.github.io/jsfx/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GERAINT LUFF&lt;/a&gt; - same as above, but with somewhat more experimental plugins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;to-use-js-plugins-outsude-of-reaper-you-can-use-a-vst-wrapper-called-ysfxhttpsgithubcomjpcimaysfx&#34;&gt;to use JS plugins outsude of REAPER, you can use a VST wrapper called &lt;a class=&#34;link&#34; href=&#34;https://github.com/jpcima/ysfx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;YSFX&lt;/a&gt;&lt;/h4&gt;
+&lt;h3 id=&#34;misc&#34;&gt;MISC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/robbert-vdh/yabridge&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;YABRIDGE&lt;/a&gt; - Wine VST bridge, allows you to run Windows VST plugins on Linux.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
