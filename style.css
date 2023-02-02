@@ -1,0 +1,40 @@
+body {
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    image-rendering: pixelated;
+    min-height: 100%;
+    background-image: url("bg.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
+.main {
+    padding-right: 8px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    max-width: 512px;
+    background-color: #00000073;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 24px;
+}
+
+li {
+    font-size: 24px;
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;   
+}
